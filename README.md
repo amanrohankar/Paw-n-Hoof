@@ -2,7 +2,7 @@
 
 ![Paw'nHoof Logo](Paw'nHoof.png)
 
-> **Connecting Paws, Hooves, and Hearts.**
+> **Paw'nHoof "Connecting hearts with paws and hooves."**
 
 ---
 
@@ -37,3 +37,4 @@ Our mission is to solve the problem of homeless animals by creating a bridge bet
 
 **Database:**
 * MongoDB
+
